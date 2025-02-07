@@ -1,4 +1,4 @@
-📌 ## World-happiness-2023-analysis
+📌 **## World-happiness-2023-analysis**
 
 ⭐ **Project Overview**  
 This project analyzes data from the World Happiness Report 2023 to understand the factors that influence happiness levels across countries. 
